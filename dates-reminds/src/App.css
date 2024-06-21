@@ -1,0 +1,25 @@
+.rectangle {
+    height: 450px;
+    border-radius: 15px;
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.315);
+    overflow-y: scroll;
+}
+
+.address {
+    font-weight: 600;
+}
+
+.img {
+    width: 50px;
+    margin: 5px;
+    height: 50px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+.fs-6{
+    opacity: 0.8;
+}
